@@ -5,7 +5,7 @@ let numC = "Hello";
 console.log("Convert to number: ");
 console.log(Number(numA));
 console.log(Number(numB));
-// console.log(number(numC)); // Khong chuyen doi duoc vi "Hello" khong phai la so
+console.log(Number(numC)); 
 
 let num1 = 55;
 let num2 = -10;
