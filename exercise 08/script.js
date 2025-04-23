@@ -16,4 +16,4 @@ console.log(num1.toString());
 console.log(num2.toString());
 console.log(num3.toString());
 
-// console.log(`The square root of ${num} is: ` + sqrtNum);
+
